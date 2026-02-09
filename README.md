@@ -1,7 +1,7 @@
 ## Oiii, eu sou Thiago Nunes!
- Sou formado como Técnico em Eletrônica e Graduando em Sistemas de Informação no Instituto Federal de Goiás.
+ Sou formado como Técnico em Eletrônica pelo IFG e Bacharel em Sistemas de Informação com mobilidade em Ciência da Computação pela UFG! A maior do Centro-Oeste.
 <br>
- Trabalho atualmente como Analista no maior grupo de comunicação do Centro Oeste e segunda maior emissora do mundo!
+ Trabalho atualmente como Analista de Desenvolvimento de Sistemas no maior grupo de comunicação do Centro Oeste e segunda maior emissora do mundo!
 <br>
 
 Sou apaixonado por aviação, tecnologia, principalmente eletrônica raiz (os nutelas que sofram, hehe) e tudo que envolve programação!
