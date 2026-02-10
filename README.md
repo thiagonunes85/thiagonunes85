@@ -1,8 +1,4 @@
-# Olá, eu sou o Thiago Nunes! 👋
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/thiagonunes85?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=America%2FSao_Paulo" alt="Metrics" />
-</div>
+Olá, eu sou o Thiago Nunes! 👋
 
 ### 🚀 Sobre mim
 Sou um entusiasta de tecnologia que transita entre o hardware "raiz" e o software moderno. Com formação técnica em **Eletrônica (IFG)** e bacharelado em **Sistemas de Informação (UFG)**, busco sempre unir a precisão dos circuitos com a escalabilidade do código.
