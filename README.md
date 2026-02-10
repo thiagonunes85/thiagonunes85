@@ -1,35 +1,56 @@
-## Oiii, eu sou Thiago Nunes!
- Sou formado como Técnico em Eletrônica pelo IFG e Bacharel em Sistemas de Informação com mobilidade em Ciência da Computação pela UFG! A maior do Centro-Oeste.
-<br>
- Trabalho atualmente como Analista de Desenvolvimento de Sistemas no maior grupo de comunicação do Centro Oeste e segunda maior emissora do mundo!
-<br>
+# Olá, eu sou o Thiago Nunes! 👋
 
-Sou apaixonado por aviação, tecnologia, principalmente eletrônica raiz (os nutelas que sofram, hehe) e tudo que envolve programação!
-<br>
-#DevOpsLover <3
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Dev-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
-  <img align="center" alt="GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-  <img align="center" alt="GCP" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Globo_logo_and_wordmark.svg/1200px-Globo_logo_and_wordmark.svg.png"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
+### Sobre mim
+Sou um entusiasta de tecnologia que transita entre o hardware "raiz" e o software moderno. Com formação técnica em **Eletrônica (IFG)** e bacharelado em **Sistemas de Informação (UFG)**, busco sempre unir a precisão dos circuitos com a escalabilidade do código.
 
-          
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UCxPtgxv7Mn9UwCDAarxQj7A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/tnunesdacosta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/thiagonunes_0202" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/2P2GehKt" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:thiagonunesss85@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-nunes-9570a9162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+- 📡 Atualmente trabalhando como **Analista de Desenvolvimento de Sistemas** no maior grupo de comunicação do Centro-Oeste e segunda maior emissora do mundo.
+- 🛠️ Especialista em transformar café em soluções eficientes, com um pezinho no mundo **DevOps**.
+- ✈️ Apaixonado por aviação, drones (líder da comunidade Drone Soccer Go) e tecnologia de transmissão.
+- 💡 Acredito que IA e tecnologia são as chaves para reduzir a evasão escolar e transformar o ensino.
+
+---
+
+### Tecnologias e Ferramentas
+
+**Linguagens e Frameworks:**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring" />
+</p>
+
+**Cloud & Observabilidade:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+**Hardware & Broadcast:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Eletrônica_Raiz-FF6C37?style=for-the-badge&logo=arduino&logoColor=white" alt="Electronics" />
+  <img src="https://img.shields.io/badge/Broadcast_TV-000?style=for-the-badge&logo=tv&logoColor=white" alt="Broadcast" />
+</p>
+
+---
+
+### Vamos nos conectar?
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/thiago-nunes-9570a9162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/tnunesdacosta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:thiagonunesss85@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCxPtgxv7Mn9UwCDAarxQj7A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div>
+
+---
+
+<p align="center">
+  <i>"A eletrônica nutella que sofra, aqui o bit é no osciloscópio!"</i> ⚡
+</p>
