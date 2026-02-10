@@ -1,7 +1,7 @@
 # Olá, eu sou o Thiago Nunes! 👋
 
 ### 🚀 Sobre mim
-Sou um entusiasta de tecnologia que transita entre o hardware "raiz" e o software moderno. Com formação técnica em **Eletrônica (IFG)** e bacharelado em **Sistemas de Informação (UFG)**, busco sempre unir a precisão dos circuitos com a escalabilidade do código.
+Sou um entusiasta de tecnologia que transita entre o hardware "raiz" e o software moderno, sem deixar de lado a pega do software. Tenho formação técnica em **Eletrônica (IFG)** e bacharelado em **Sistemas de Informação (IFG)** com mobilidade em **Ciência da Computação (UFG)**, busco sempre unir a precisão dos circuitos com a escalabilidade do código.
 
 - 📡 Atualmente trabalhando como **Analista de Desenvolvimento de Sistemas** no maior grupo de comunicação do Centro-Oeste e segunda maior emissora do mundo.
 - 🛠️ Especialista em transformar café em soluções eficientes, com foco em **Desenvolvimento Web** e **DevOps**.
