@@ -1,4 +1,4 @@
-Olá, eu sou o Thiago Nunes! 👋
+# Olá, eu sou o Thiago Nunes! 👋
 
 ### 🚀 Sobre mim
 Sou um entusiasta de tecnologia que transita entre o hardware "raiz" e o software moderno. Com formação técnica em **Eletrônica (IFG)** e bacharelado em **Sistemas de Informação (UFG)**, busco sempre unir a precisão dos circuitos com a escalabilidade do código.
@@ -21,7 +21,7 @@ Sou um entusiasta de tecnologia que transita entre o hardware "raiz" e o softwar
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
 
-**Cloud & Monitoramento:**
+**Cloud & Observabilidade:**
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
@@ -41,4 +41,13 @@ Sou um entusiasta de tecnologia que transita entre o hardware "raiz" e o softwar
 <div align="left">
   <a href="https://www.linkedin.com/in/thiago-nunes-9570a9162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/tnunesdacosta/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:thiagonunesss85@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:thiagonunesss85@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCxPtgxv7Mn9UwCDAarxQj7A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.twitch.tv/thiagonunes_0202" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+</div>
+
+---
+
+<p align="center">
+  <i>"A eletrônica nutella que sofra, aqui o bit é no osciloscópio!"</i> ⚡
+</p>
